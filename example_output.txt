@@ -1,0 +1,91 @@
+
+	Company Id: 1
+	Company Name: Blue Cat Inc.
+	Users Emailed:
+	Users Not Emailed:
+		Carr, Genesis, genesis.carr@demo.com
+		  Previous Token Balance, 71
+		  New Token Balance 142
+		Lynch, Eileen, eileen.lynch@fake.com
+		  Previous Token Balance, 40
+		  New Token Balance 111
+		Total amount of top ups for Blue Cat Inc.: 142
+
+	Company Id: 2
+	Company Name: Yellow Mouse Inc.
+	Users Emailed:
+		Boberson, Bob, bob.boberson@test.com
+		  Previous Token Balance, 23
+		  New Token Balance 60
+		Boberson, John, john.boberson@test.com
+		  Previous Token Balance, 15
+		  New Token Balance 52
+		Simpson, Edgar, edgar.simpson@notreal.com
+		  Previous Token Balance, 67
+		  New Token Balance 104
+	Users Not Emailed:
+		Gordon, Sara, sara.gordon@test.com
+		  Previous Token Balance, 22
+		  New Token Balance 59
+		Weaver, Sebastian, sebastian.weaver@fake.com
+		  Previous Token Balance, 66
+		  New Token Balance 103
+		Total amount of top ups for Yellow Mouse Inc.: 185
+
+	Company Id: 3
+	Company Name: Red Horse Inc.
+	Users Emailed:
+		George, Mary, mary.george@test.com
+		  Previous Token Balance, 37
+		  New Token Balance 92
+		Jimerson, Jim, jim.jimerson@test.com
+		  Previous Token Balance, 10
+		  New Token Balance 65
+		Nederson, Ned, ned.nederson@test.com
+		  Previous Token Balance, 3
+		  New Token Balance 58
+	Users Not Emailed:
+		Castro, Monica, monica.castro@notreal.com
+		  Previous Token Balance, 69
+		  New Token Balance 124
+		Dean, Claire, claire.dean@test.com
+		  Previous Token Balance, 98
+		  New Token Balance 153
+		Silva, Elsie, elsie.silva@fake.com
+		  Previous Token Balance, 49
+		  New Token Balance 104
+		Total amount of top ups for Red Horse Inc.: 330
+
+	Company Id: 4
+	Company Name: Yellow Frog Inc.
+	Users Emailed:
+	Users Not Emailed:
+		Gardner, Alexander, alexander.gardner@demo.com
+		  Previous Token Balance, 40
+		  New Token Balance 73
+		Knight, Noah, noah.knight@fake.com
+		  Previous Token Balance, 23
+		  New Token Balance 56
+		Rodriquez, Brent, brent.rodriquez@test.com
+		  Previous Token Balance, 96
+		  New Token Balance 129
+		Ward, Adrian, adrian.ward@notreal.com
+		  Previous Token Balance, 25
+		  New Token Balance 58
+		Total amount of top ups for Yellow Frog Inc.: 132
+
+	Company Id: 5
+	Company Name: Purple Fish Inc.
+	Users Emailed:
+		Berry, Paul, paul.berry@notreal.com
+		  Previous Token Balance, 19
+		  New Token Balance 101
+	Users Not Emailed:
+		Berry, Nicholas, nicholas.berry@notreal.com
+		  Previous Token Balance, 39
+		  New Token Balance 121
+		Graves, Rachel, rachel.graves@fake.com
+		  Previous Token Balance, 26
+		  New Token Balance 108
+		Total amount of top ups for Purple Fish Inc.: 246
+

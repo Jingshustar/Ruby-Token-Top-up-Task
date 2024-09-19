@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"name": "Blue Cat Inc.",
+		"top_up": 71,
+		"email_status": false
+	},
+	{
+		"id": 2,
+		"name": "Yellow Mouse Inc.",
+		"top_up": 37,
+		"email_status": true
+	},
+	{
+		"id": 3,
+		"name": "Red Horse Inc.",
+		"top_up": 55,
+		"email_status": true
+	},
+	{
+		"id": 4,
+		"name": "Yellow Frog Inc.",
+		"top_up": 33,
+		"email_status": false
+	},
+	{
+		"id": 5,
+		"name": "Purple Fish Inc.",
+		"top_up": 82,
+		"email_status": true
+	},
+	{
+		"id": 6,
+		"name": "Red Deer Inc.",
+		"top_up": 60,
+		"email_status": true
+	}
+]
